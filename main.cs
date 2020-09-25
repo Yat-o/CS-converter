@@ -1,6 +1,5 @@
 /*
- * C# Program to Convert a Given Number of Days in terms of 
- * Years, Weeks & Days
+ *an ordinary cs converter 
  */
 using System;
 class program
